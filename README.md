@@ -1,0 +1,1 @@
+# AWS-SES-Lambda-Centralized-Mailer
